@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Juan Ramirez",
+      "age": 25
+    },
+    {
+      "name": "Pedro Sanchez",
+      "age": 54
+    },
+    {
+      "name": "María Jaramillo",
+      "age": 32
+
+    },
+    {
+        "name": "Sebastian López",
+        "age": 26
+      },
+      {
+        "name": "Alejandro Perez",
+        "age": 19
+      },
+      {
+        "name": "Claudia Morales",
+        "age": 22
+      },
+      {
+        "name": "Andres Quintero",
+        "age": 14
+      },
+
+      {
+        "name": "Sandra Paez",
+        "age": 23
+      }
+  ]

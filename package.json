@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "debug": "^4.3.4",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  },
+  "name": "taller-nodejs2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "debug": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gisella Espinosa",
+  "license": "ISC",
+  "description": ""
+}
